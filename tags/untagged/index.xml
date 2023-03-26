@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on m8nscape</title>
+    <link>https://m8nscape.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on m8nscape</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 26 Mar 2023 20:13:47 +0800</lastBuildDate><atom:link href="https://m8nscape.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>https://m8nscape.github.io/posts/helloworld/</link>
+      <pubDate>Sun, 26 Mar 2023 20:13:47 +0800</pubDate>
+      
+      <guid>https://m8nscape.github.io/posts/helloworld/</guid>
+      <description>本站于2023/3/26在出差坐绿皮火车的时候创建。
+暂时不知道写什么，先把前几天写的饭店评分放上来吧。
+peace.</description>
+    </item>
+    
+  </channel>
+</rss>
