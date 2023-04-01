@@ -6,7 +6,38 @@
     <description>Recent content on m8nscape</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Mar 2023 20:25:56 +0800</lastBuildDate><atom:link href="https://m8nscape.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 22:54:47 +0800</lastBuildDate><atom:link href="https://m8nscape.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>讲一讲我2023年的第一份工作</title>
+      <link>https://m8nscape.github.io/posts/summarizing_my_first_job_in_2023/</link>
+      <pubDate>Sat, 01 Apr 2023 22:54:47 +0800</pubDate>
+      
+      <guid>https://m8nscape.github.io/posts/summarizing_my_first_job_in_2023/</guid>
+      <description>今天是4月1日。愚人节快乐！
+这不是才4月份吗，怎么就开始总结了？说起来好笑，我甚至才入职半个月呢。
+今年过完年，钱包快要归零了，大概是2月份我开始找工作，刷了半个月招聘app看广州的机会，投了个网易已读不回，刷来刷去觉得哎广州好像机会不多啊？把求职意向改成深圳又继续刷了半个月。
+深圳机会相对来说还是多一点，我在3月初还去深圳面了一家，和HR聊了一会突然3个面试官走进会议室，这个阵杖我觉得就是要刷人的，我发挥也不好，果然最后回家等通知了。
+后来抱着试试又不会死的想法投了几家东莞的，竟然没有沉，面试还过了。虽然隐隐约约觉得这是个坑，当务之急还是解决钱包问题，那就先干着呗。
+老板是这么说的：
+我们有个项目非常紧急，软件代码4000行，有一个问题，跑着跑着会崩溃，我们查了很久不知道是哪里的问题。功能都是没问题的。 （注：整个系统不止这一个软件）
+入职第一天，星期五，同事给我看代码，说：这个软件有两个问题。
+点一个按钮要非常久 跑着跑着崩溃 同事说：你先看看代码。 然后离开了开发区。
+你不是说有一个问题吗？他怎么不是开发？
+我看了半天，代码质量挺惊艳的，还会把map当成list来用。
+连看带改过了一周（周末无休），把两个问题解决了，流程能跑动了之后，我发现这个软件后面全是问题。
+你不是说功能没有问题吗？
+老板说客户等不及了，你出个差给客户演示下吧。
+我叼，你叫个翻工唔够半个月嘅新人去出差？仲要拉埋部台式机箱？？
+然后星期天（星期六无休）我和同事冒雨拉着机箱从9点坐车坐到晚上9点终于到达目的地酒店，第二天星期一正常上班！
+到了客户现场，同事和客户扯皮扯了三天，我就听懂了你们这套方案我们公司是不允许的balabala，我以为没我事了，后来不知道怎么的流程又到我这了，还要在现场改功能逻辑，，，连续搞了几天搞到星期五客户试用效果好像还过得去，过两天上班再看看。
+老板说：你这个能不能再改善一下，你们想个方案出来。
+你不是说功能没有问题吗？这两天能改善啥呢？
+今晚吃饭的时候听同事说老板把他电话打爆了，估计是真的很急吧。
+时间轴就到这里了，后面的事情谁知道呢，估计跟我也没多大关系了。感觉今年找工作挺难的，不是沉就是坑，坑里面还有大坑。
+最近发生了一些事情，经济问题应该是暂时解决了，回去继续学习一段时间再找吧。
+共勉！</description>
+    </item>
+    
     <item>
       <title>长沙 长沙火车站 老长沙面馆</title>
       <link>https://m8nscape.github.io/foodcritic/230326_1/</link>
